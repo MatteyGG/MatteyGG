@@ -1,5 +1,5 @@
  # <>   Hi there, I'm Mattey  </>
- ## Junior Developer from Moscow
+ ## Backend Developer
 
 <a href="https://t.me/ser_dantes_r">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
